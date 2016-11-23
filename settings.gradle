@@ -1,4 +1,4 @@
-include ':PullToRefreshAndLoad', ':pulltorefresh', ':pulltorefreshexample'
+include ':PullToRefreshAndLoad'
 include ':library'
 include ':pullToRefreshListFragment'
 include ':pullToRefreshViewPager'
